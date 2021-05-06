@@ -1,3 +1,13 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+This project uses the **colorama** python library to make ANSI escape character sequences. \
+[Read the official colorama documentation here](https://pypi.org/project/colorama/).
+
+This game was made as a part of the Design and Analysis of Software Systems course, Spring 2021.
+
+---
+
+
 # Big Brick Energy
 
 A game similar to Brick Breaker, but runs on terminal because flash player is dead.
@@ -47,6 +57,3 @@ Multiple classes and objects are used.
 ### Abstraction
 
 Many functions such as `activate`, `move`, etc are abstracted.
-
----
-This game was made as a part of the Design and Analysis of Software Systems course, Spring 2021.
