@@ -3,6 +3,8 @@
 This project uses the **colorama** python library to make ANSI escape character sequences. \
 [Read the official colorama documentation here](https://pypi.org/project/colorama/).
 
+The symbols for power-ups are Unicode characters. You can visit [this link](https://www.alt-codes.net/) to know more.
+
 This game was made as a part of the Design and Analysis of Software Systems course, Spring 2021.
 
 ---
@@ -44,7 +46,7 @@ A game similar to Brick Breaker, but runs on terminal because flash player is de
 
 ### Inheritance
 
-All power-ups are inherited from the `PowerUp ` class.
+All power-ups are inherited from the `PowerUp` class.
 
 ### Polymorphism
 
